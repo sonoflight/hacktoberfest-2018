@@ -492,3 +492,8 @@
 - Place: Akron, USA
 - Bio: Student at the University of Akron
 - Github: [jpquinn1](https://github.com/jpquinn1)
+
+#### Name: [Catalin Stretcu](https://github.com/sonoflight)
+- Place: Drobeta-Turnu Severin, Mehedinti, Romania
+- Bio: I am a student at "Gheorghe Titeica" National College, a C++ enthusiast and a Python newbie. 
+- GitHub: [sonoflight](https://github.com/sonoflight)
